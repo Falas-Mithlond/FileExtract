@@ -1,0 +1,5 @@
+{
+    "python.terminal.activateEnvironment": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "python.pythonPath": "D:\\Miniconda\\envs\\py36\\python.exe"
+}
